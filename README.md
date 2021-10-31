@@ -7,9 +7,9 @@ As the project evolved, the concept of KOI Project gradually formed into a socia
 The basis of KOI Project consists of 30,000 koi, each KOI is unique and has its own unique pattern using ERC721 protocol. After casting, you can see the KOI pattern you own on OpenSea, and you can also trade it on OpenSea, the first 5,000 KOI are sold at 0.05 Matic. It doubles every 1000 after 5000.
 
 # Example.
-5999~5001, each cost 0.1 Matic
-6999~6001, each cost 0.15 Matic
-7999~7001, each cost 0.2 Matic
++ 5999~5001, each cost 0.1 Matic
++ 6999~6001, each cost 0.15 Matic
++ 7999~7001, each cost 0.2 Matic
 
 The most expensive KOI only costs 1.35 Matic. We use a very low price because we want to make it easy for people to join the KOI Project.
 
@@ -60,5 +60,7 @@ AURA：[0x5e2ED6898D8Aa28467A6B2e024D55d79cA72d84B](https://polygonscan.com/addr
 
 
 Easy to operate interface is still under development, you can still interact through the contract first for casting, trading or collecting functions.
+
+KOIProjectData：https://github.com/KoiPLUR/KOIProjectData
 
 
