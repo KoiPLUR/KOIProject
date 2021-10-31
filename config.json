@@ -1,0 +1,21 @@
+{
+  "main": "./contracts/KOIProject.sol",
+  "deploy": "./build/contracts/KOIProject.json",
+  "framework": "truffle",
+  "npmClient": "npm",
+  "compilers": {
+    "solc": "0.8.2",
+    "truffle": "v5.4.3",
+    "evmVersion": "istanbul",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  },
+  "linter": "solhint",
+  "editor": {
+    "fontFamily": "Hack",
+    "fontSize": "13px",
+    "ligatures": false
+  }
+}
