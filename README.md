@@ -4,7 +4,7 @@ Koi symbolizes good luck and fortune in many cultures, and there is no shortage 
 As the project evolved, the concept of KOI Project gradually formed into a social creation experiment. You can see KOI Project as an art creation concept, NFT, blockchain game, or a meta-universe prototype.
 
 # KOI Description. 
-The basis of KOI Project consists of 30,000 koi, each KOI is unique and has its own unique pattern using ERC721 protocol. After casting, you can see the KOI pattern you own on OpenSea, and you can also trade it on OpenSea, the first 5,000 KOI are sold at 0.05 Matic. It doubles every 1000 after 5000.
+The basis of KOI Project consists of 30,000 koi, each KOI is unique and has its own unique pattern using ERC721 protocol. After casting, you can see the KOI pattern you own on [OpenSea](https://opensea.io/collection/koiproject), and you can also trade it on [OpenSea](https://opensea.io/collection/koiproject), the first 5,000 KOI are sold at 0.05 Matic. It doubles every 1000 after 5000.
 
 # Example.
 + 5999~5001, each cost 0.1 Matic
@@ -15,7 +15,7 @@ The most expensive KOI only costs 1.35 Matic. We use a very low price because we
 
 Why is it not free? The entire KOI Universe releases 30,000 KOI's, and we want each KOI to be used as much as possible, so we charge a small fee to reduce waste.
 
-Once all KOI's are released, you can only buy them on secondary markets like OpenSea, but of course you can also make an offer directly on OpenSea for your favorite color.
+Once all KOI's are released, you can only buy them on secondary markets like [OpenSea](https://opensea.io/collection/koiproject), but of course you can also make an offer directly on [OpenSea](https://opensea.io/collection/koiproject) for your favorite color.
 
 You can Mint up to 20 KOI at a time, and each KOI will be born with a randomly generated gender, which will be needed in the future KOI universe.
 
