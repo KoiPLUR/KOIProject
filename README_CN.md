@@ -4,7 +4,7 @@
 随着计划的演进，KOI Project的概念逐渐形成社会创作实验，你可以看待KOI Project是一个艺术创作概念，NFT，区块链游戏，或是元宇宙雏形。
 
 # KOI说明： 
-KOI Project 的基础由30000个锦鲤构成，每一个KOI采用ERC721协议，都是独一无二的，有自己独特的花色，铸造后，你可以在OpenSea上看见自己所拥有的KOI花色，也可以在OpenSea上进行交易，前5000个KOI销售价格为0.05 Matic，超过5000个之后每1000个增加一倍。
+KOI Project 的基础由30000个锦鲤构成，每一个KOI采用ERC721协议，都是独一无二的，有自己独特的花色，铸造后，你可以在[OpenSea](https://opensea.io/collection/koiproject)上看见自己所拥有的KOI花色，也可以在OpenSea上进行交易，前5000个KOI销售价格为0.05 Matic，超过5000个之后每1000个增加一倍。
 
 #例如：
 + 5999~5001，每个花费0.1 Matic
@@ -15,7 +15,7 @@ KOI Project 的基础由30000个锦鲤构成，每一个KOI采用ERC721协议，
 
 为什么不是免费？整个KOI宇宙个发行30000个KOI，希望每一个KOI都能尽量被应用，酌收一点费用可以减少浪费。
 
-当所有KOI发行完毕后，你只能在OpenSea等二级市场购买，当然你也可以直接在OpenSea对你喜欢的花色进行喊价。
+当所有KOI发行完毕后，你只能在[OpenSea](https://opensea.io/collection/koiproject)等二级市场购买，当然你也可以直接在[OpenSea](https://opensea.io/collection/koiproject)对你喜欢的花色进行喊价。
 
 每次最多可以Mint 20 个KOI，每个KOI诞生的时候，将随机产生性别，在未来KOI宇宙的时候会需要这个性别。
 
