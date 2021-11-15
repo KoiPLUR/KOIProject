@@ -64,4 +64,12 @@ Easy to operate interface is still under development, you can still interact thr
 
 KOIProjectData：https://github.com/KoiPLUR/KOIProjectData
 
+Website: https://koiplur.github.io/
+GitHub：https://github.com/KoiPLUR/KOIProject
+Twitter：https://twitter.com/KoiPlur
+KOI(Polygon)：0x67bba38865a7c7ada68d51082da7fa33c3959d85
+AURA(Polygon)：0x5e2ED6898D8Aa28467A6B2e024D55d79cA72d84B
+KOITools(Polygon)：0xd5563A3Ba9c2b11be630D0cc543675959eAa11c5
+OpenSea：https://opensea.io/collection/koiproject
+Telegram：https://t.me/KOIPLUR
 
