@@ -58,7 +58,7 @@ KOI：[0x67bba38865a7c7ada68d51082da7fa33c3959d85](https://polygonscan.com/addre
 
 AURA：[0x5e2ED6898D8Aa28467A6B2e024D55d79cA72d84B](https://polygonscan.com/address/0x5e2ED6898D8Aa28467A6B2e024D55d79cA72d84B#code)
 
-KOITools:[0xd5563A3Ba9c2b11be630D0cc543675959eAa11c5](https://polygonscan.com/address/0xd5563A3Ba9c2b11be630D0cc543675959eAa11c5#writeContract)
+KOITools:[0xcdD2B7D59e5EA62d3E040f9b4835d061fb65735a](https://polygonscan.com/address/0xcdD2B7D59e5EA62d3E040f9b4835d061fb65735a#writeContract)
 
 Easy to operate interface is still under development, you can still interact through the contract first for casting, trading or collecting functions.
 
